@@ -1,0 +1,14 @@
+Package: riskProbeStat
+Type: Package
+Title: RiskProbe stat package
+Description: Stat package required for RiskProbe.
+Version: 0.1.0
+Author: Revanth Nemani <raynemani@gmail.com>
+Maintainer: Revanth Nemani <raynemani@gmail.com>
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: stats
+Suggests: 
+    covr
+RoxygenNote: 6.1.1
